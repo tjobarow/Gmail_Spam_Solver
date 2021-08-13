@@ -1,0 +1,4 @@
+*.json
+**/frequency_lists/*.txt
+/gmail
+quickstart.py
